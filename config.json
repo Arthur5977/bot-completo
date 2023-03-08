@@ -2,7 +2,7 @@
     "client": {
         "token": "seu token aqui",
         "embed": "016bdb",
-        "username": "Medusa's Store",
+        "username": "nome do seu bot",
         "avatar": "avatar do bot",
         "channel_bugs": "id do canal de bugs",
         "owner_id": "id do dono do bot"
